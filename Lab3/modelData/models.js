@@ -54,7 +54,7 @@ const schemaInfo = {
 const im = {
   _id: "57231f1a30e4351f4e9f4bd7",
   first_name: "Ian",
-  last_name: "Malcolm",
+  last_name: "Malc",
   location: "Austin, TX",
   description: "Should've stayed in the car.",
   occupation: "Mathematician",
